@@ -1,9 +1,9 @@
 using System.Text.Json.Serialization;
-using RpgMvc.Models.Enums;
+using RpgMvc.Models.Enuns;
 
 namespace RpgMvc.Models
 {
-    public class Personagem
+    public class PersonagemViewModel
     {
         public int Id { get; set; }
         public string Nome { get; set; } = string.Empty;

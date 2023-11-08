@@ -1,4 +1,4 @@
-namespace Rpg_Mvc.Models
+namespace RpgMvc.Models.Enuns
 {
     public enum ClasseEnum
     {
