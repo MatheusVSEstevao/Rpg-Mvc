@@ -18655,6 +18655,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\etechas\\Rpg-Mvc\\Views\\Personagens\\Create.cshtml",
+      "TargetPath": "Views\\Personagens\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\etechas\\Rpg-Mvc\\Views\\Usuarios\\AutenticarUsuario.cshtml",
       "TargetPath": "Views\\Usuarios\\AutenticarUsuario.cshtml",
       "FileKind": "mvc"
